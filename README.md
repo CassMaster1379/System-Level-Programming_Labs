@@ -1,4 +1,6 @@
 # System-Level-Programming_Labs
+This repository involves assingments from my System-Level Programming CSC3320 course and includes code programmed in C-language, shell script, and some Java. All of these projects were written my client terminal connected to a UNIX server.
+
 Instructions to run code:
 
   C-Language-
