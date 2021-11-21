@@ -1,0 +1,61 @@
+Cassandra Lundberg
+09/06/21
+System-Level Programming
+Lab Assignment #2- Post Lab: History 
+  238  cd ~
+  239  pwd
+  240  ls
+  241  mkdir Lab2_P2
+  242  ls
+  243  cd Lab2_P2
+  244  pwd
+  245  ls
+  246  cp /home/bbello1/public/RealEstate.csv .
+  247  ls
+  248  cat RealEstate.csv
+  249  head -3 RealEstate.csv
+  250  wc -l RealEstate.csv
+  251  cat -n RealEstate.csv
+  252  mkdir ../public
+  253  ~/
+  254  ls ~/
+  255  pwd
+  256  cp RealEstate.csv myRealEstate.csv
+  257  ls
+  258  mv myRealEstate.csv ../public
+  259  ls ../public
+  260  ls
+  261  pwd
+  262  ls RealEstate.csv
+  263  ls /home/clundberg3/public
+  264  cd public
+  265  cd /home/clundberg3/public
+  266  pwd
+  267  mkdir Regular
+  268  ls
+  269  mkdir Submission
+  270  ls
+  271  mkdir Submission/Lab2
+  272  ls Submission
+  273  mkdir Submission/Lab3
+  274  ls Submission
+  275  mv Regular Others
+  276  ls
+  277  cp ../Lab2_P2 Submission/Lab2
+  278  ls Submission/Lab2
+  279  cp Lab2_P2 Lab2
+  280  cp ../Lab2_P2 Lab2
+  281  ls ~/
+  282  cp -R ../Lab2_P2 Lab2
+  283  ls Submission/Lab2
+  284  cp -R ../Lab2_P2 Submission/Lab2
+  285  ls Submission/Lab2
+  286  ls ~/
+  287  rmdir ../Lab2_P2
+  288  ls ../Lab2_P2
+  289  rm ../Lab2_P2/RealEstate.csv
+  290  ls ../Lab2_P2
+  291  rmdir ../Lab2_P2
+  292  ls ~/
+  293  history
+[clundberg3@gsuad.gsu.edu@snowball public]$
