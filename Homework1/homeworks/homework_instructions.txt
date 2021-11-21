@@ -1,0 +1,16 @@
+Submission Instructions: 
+	1. Create a Google doc for each homework assignment submission.
+	2. Start your responses from page 2 of the document and copy these instructions on page 1.
+	3. Fill in your name, Campus ID and panther # in the fields provided. If this information is missing in yoyr document TWO POINTS WILL BE DEDUCTED per submission.
+	4. Keep this page 1 intact on all submissions. If this submissions instruction page is missing in your submission TWO POINTS WILL BE DEDUCTED per submission.
+	5. Each homework will typically have 2-3 PARTS, where each PART focuses on specific topic(s).
+	6.Start your repsonses to each PART on a new page.
+	7. If you are being asked to write code copy the code into a specific txt file and submit that as well.
+	8. If you are being asked to test code or run specific commands or scripts, provide the evidence of your outputs through a screenshot and copy the same into the document.
+	9. Upon completion, download a .PDF version of the document and submit the same.
+
+Full Name: Cassandra Lily Lundberg
+
+Campus ID: clundberg3
+
+Panther # 002345582
